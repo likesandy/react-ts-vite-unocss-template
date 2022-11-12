@@ -11,7 +11,8 @@ unocss 的基本配置 + Attributify Mode
 ## 开始
 
 ```shell
-# git clone https://github.com/likesandy/react-ts-vite-unocss-template.git
+# clone
+git clone https://github.com/likesandy/react-ts-vite-unocss-template.git
 
 # install
 pnpm install
